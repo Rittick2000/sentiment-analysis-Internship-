@@ -5,3 +5,4 @@ A program which will analyze the sentiments and give the output of an sentiments
 ![Screenshot (80)](https://user-images.githubusercontent.com/68509017/118524371-b5817800-b75b-11eb-90b1-380cbf3c6461.png)
 
 
+It will shows verious types of sentiments and represent it in a graph format .
